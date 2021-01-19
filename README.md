@@ -1,0 +1,2 @@
+# NegaPositiveConverter
+OpenCVでイラストをネガポジ反転するサンプル
